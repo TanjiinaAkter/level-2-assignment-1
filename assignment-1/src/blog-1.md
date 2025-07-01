@@ -1,9 +1,9 @@
-Why Union and Intersection Types Matter in TypeScript:
+# Why Union and Intersection Types Matter in TypeScript:
 In the ever-evolving landscape of modern web development, TypeScript has emerged as a vital tool for writing scalable, type-safe applications. One of the key reasons developers adopt TypeScript is its robust type system, which offers powerful constructs like union and intersection types.
 
 These two features aren’t just syntax tricks—they’re foundational tools that allow developers to write flexible, precise, and error-resistant code. In this blog post, we’ll explore what they are, how they work, and why they truly matter in real-world TypeScript applications.
 
-- What Are Union and Intersection Types?
+## What Are Union and Intersection Types?
 - Union Types (|)
   A union type allows a variable to hold values of more than one type. It's essentially saying, “This can be this type OR that type.”
 
