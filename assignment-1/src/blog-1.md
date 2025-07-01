@@ -66,5 +66,5 @@ Prefer literal types (e.g., "success" instead of string) in unions for better cl
 
 Avoid overcomplicating types—aim for clarity and maintainability.
 
-- Final Thoughts
+## Final Thoughts
   In a world of complex data structures and dynamic user flows, TypeScript's union and intersection types provide the precision and flexibility needed to keep applications robust and maintainable. By mastering these two tools, developers can write code that is not only correct but also communicative and future-proof.
